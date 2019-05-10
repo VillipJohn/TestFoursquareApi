@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TestFoursquareApi</string>
+    <string name="title_activity_maps">TestFoursquareApi</string>
+
+    <string name="foursquare_client_id">OXB25RK0ESNYRBKYYXPISMXL31150S02JM10I443OVDOLHC0</string>
+    <string name="foursquare_client_secret">YQJCG505SBXWPVVMNS10ODUCPS2CMRNFIDTT0QT2IUUW4HEA</string>
+
+    <string name="name">Имя</string>
+    <string name="address">Адрес</string>
+    <string name="distance">Расстояние</string>
+    <string name="rating">Рейтинг</string>
+    <string name="city">Город</string>
+    <string name="country">Страна</string>
+    <string name="postal_code">Почтовый индекс</string>
+    <string name="latitude">Широта</string>
+    <string name="longitude">Долгота</string>
+</resources>
